@@ -50,5 +50,11 @@ Please make sure to update tests as a appropriate.
 !text in orange
 #text in grey
 ```
+```diff
+-test
++word
+!character
+#string
+```
 
 [MIT](https://choosealicense.com/licenses/mit/)
