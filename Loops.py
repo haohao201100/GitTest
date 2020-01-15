@@ -116,14 +116,3 @@ for num in range(2, 10):
 	print("Found a number", num)
 
 -------------- 
-
->>>Fibonacci #Module Folder
-
-def fib(n):
-	a, b = 0, 1
-	while a < n:
-		print(a, end=' ') 
-		a, b = b, a+b
-	print()
-...
-fib(200)
