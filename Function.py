@@ -13,7 +13,7 @@ def print_max(a,b):
 	else:
 		print(b,'is maxium')
 
-print_max(3, 4)x
+print_max(3, 4)
 
 x = 8
 y = 11
